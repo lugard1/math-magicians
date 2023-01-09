@@ -1,4 +1,4 @@
-## Copyright 2021, [Lugard Agu]
+## Copyright 2023, [Lugard Agu]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this [Math Magicians: setup] and associated documentation files, to deal in the [Math Magicians: setup] without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the [Math Magicians: setup], and to permit persons to whom the [Math Magicians: setup] is furnished to do so, subject to the following conditions:
 
