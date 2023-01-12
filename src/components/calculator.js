@@ -27,7 +27,7 @@ class Calculator extends React.PureComponent {
             </div>
           </div>
           <div className="operator-keys">
-            <button type="button" className="calculator-key key-divide">/</button>
+            <button type="button" className="calculator-key key-divide">&divide;</button>
             <button type="button" className="calculator-key key-multiply">x</button>
             <button type="button" className="calculator-key key-subtract">-</button>
             <button type="button" className="calculator-key key-add">+</button>
