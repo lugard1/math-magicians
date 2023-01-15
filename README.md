@@ -64,7 +64,7 @@ After you're finished please remove all the comments and instructions!
 
 > 
 
-**[math magician]** is a web application that allows two applications to talk to each other. APIs are an accessible way to extract and share data within and across organizations.
+**[math magician]** is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple Math calculations and read a random Math related quote.
 
 ## 🛠 Built With <a name="built-with">
 - HTML
